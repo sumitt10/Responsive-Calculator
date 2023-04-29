@@ -1,6 +1,6 @@
 # Responsive-Calculator
-WEB Based Responsive Calci with all commonly used operations in calculator. Aweesome Design !! which 
-can adapt to different screen sizes, making it easy for users to sign up on desktop, tablet, or mobile devices.
+WEB Based Responsive Calci with all commonly used operations in calculator. Aweesome Design !! <br>which 
+can adapt to different screen sizes, making it easy for users to use on desktop, tablet, or mobile devices.
 <br><br>
 Tech Used : HTML | CSS | JS | @mediaquery
 <br><br>
